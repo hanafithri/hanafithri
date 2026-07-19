@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hana Fithri Sabiila 👋
-
-### Front-End Developer & UI/UX Designer
+<h1>Hi, I'm Hana Fithri Sabiila <img src="https://media.giphy.com/media/hvXCLtEIf1GEE/giphy.gif" width="35px"></h1>
 
 ---
 
