@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Hana Fithri Sabiila <img src="https://media.giphy.com/media/hvXCLtEIf1GEE/giphy.gif" width="35px"></h1>
+<h1>Hi, I'm Hana Fithri Sabiila <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ---
 
