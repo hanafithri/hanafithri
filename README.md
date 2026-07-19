@@ -19,9 +19,7 @@ I am an Informatics student at Universitas Sahid Surakarta with a strong interes
 
 ---
 
-## 🧳 Language & Tools
-
-## 🧳 Language & Tools
+## 🔧 Language & Tools
 
 <table>
   <tr>
